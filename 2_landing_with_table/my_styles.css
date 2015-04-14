@@ -1,7 +1,16 @@
 
 * {
   box-sizing: border-box;
-
   /* Make the invisible visible */
   border: thin red solid;
+}
+h1{
+
+}
+table{
+  table-layout: fixed;
+  width: 100%;
+}
+td{
+  width: 33%;
 }
